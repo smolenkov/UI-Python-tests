@@ -1,1 +1,1 @@
-# UI_test_framework_python
+# Simple tests UI python
